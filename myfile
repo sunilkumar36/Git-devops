@@ -6,3 +6,6 @@ devops tools
 4.jenkins
 5.sonarqube
 6.nexus
+7.ansible
+8.docker
+9.kubernetes
